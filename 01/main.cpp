@@ -1,7 +1,6 @@
 #include "numbers.dat"
 #include <iostream>
 #include <vector>
-#include <math.h>
 
 // Data - массив
 // Size - размер массива
